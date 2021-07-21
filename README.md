@@ -1,6 +1,6 @@
 # ajv-json-schema-validation
 
-# Some examples of ajv tested using postman
+## Some examples of ajv tested using postman
 
 ![image](https://user-images.githubusercontent.com/68393994/126488546-a0ddde23-606c-424c-84b1-65f8f29dcb45.png)
 
