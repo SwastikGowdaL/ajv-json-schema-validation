@@ -24,6 +24,10 @@ const schema = {
             type: "string",
             enum: ["US", "IN", "CA"],
         },
+        link:{
+            type:"string",
+            format:"url"
+        }
     },
     required: ["firstName", "email", "age", "dob", "countryCode"],
     additionalProperties: false,
