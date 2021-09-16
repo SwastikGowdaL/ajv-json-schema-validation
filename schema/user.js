@@ -27,6 +27,10 @@ const schema = {
         link:{
             type:"string",
             format:"url"
+        },
+        customFormatEg:{
+         type:"string",
+         format:"customFormat"   
         }
     },
     required: ["firstName", "email", "age", "dob", "countryCode"],
